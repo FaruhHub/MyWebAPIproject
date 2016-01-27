@@ -1,0 +1,71 @@
+D:\Projects\Stats\Stats\bin\Stats.dll.config
+D:\Projects\Stats\Stats\bin\Stats.dll
+D:\Projects\Stats\Stats\bin\Stats.pdb
+D:\Projects\Stats\Stats\bin\EntityFramework.dll
+D:\Projects\Stats\Stats\bin\EntityFramework.SqlServer.dll
+D:\Projects\Stats\Stats\bin\Newtonsoft.Json.dll
+D:\Projects\Stats\Stats\bin\System.Net.Http.Formatting.dll
+D:\Projects\Stats\Stats\bin\System.Web.Http.dll
+D:\Projects\Stats\Stats\bin\System.Web.Http.WebHost.dll
+D:\Projects\Stats\Stats\bin\EntityFramework.xml
+D:\Projects\Stats\Stats\bin\EntityFramework.SqlServer.xml
+D:\Projects\Stats\Stats\bin\Newtonsoft.Json.xml
+D:\Projects\Stats\Stats\bin\System.Net.Http.Formatting.xml
+D:\Projects\Stats\Stats\bin\System.Web.Http.xml
+D:\Projects\Stats\Stats\bin\System.Web.Http.WebHost.xml
+D:\Projects\Stats\Stats\obj\Debug\Stats.csprojResolveAssemblyReference.cache
+D:\Projects\Stats\Stats\obj\Debug\Stats.dll
+D:\Projects\Stats\Stats\obj\Debug\Stats.pdb
+D:\Projects\Stats\Stats\obj\Debug\Stats.Migrations.Initial.resources
+D:\Projects\Stats\Stats\obj\Debug\Stats.csproj.GenerateResource.Cache
+D:\Projects\Stats\Stats\obj\Debug\Stats.Migrations.CreatedDateDatabaseGenerated.resources
+D:\Projects\Stats\Stats\obj\Debug\Stats.Migrations.RemoveCreatedDateDatabaseGenerated.resources
+D:\Projects\Stats\Stats\obj\Debug\Stats.Migrations.DatabaseGenerated.resources
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\Stats.dll.config
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\Stats.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\Stats.pdb
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\EntityFramework.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\EntityFramework.SqlServer.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\Newtonsoft.Json.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\System.Net.Http.Formatting.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\System.Web.Http.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\System.Web.Http.WebHost.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\EntityFramework.xml
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\EntityFramework.SqlServer.xml
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\Newtonsoft.Json.xml
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\System.Net.Http.Formatting.xml
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\System.Web.Http.xml
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\bin\System.Web.Http.WebHost.xml
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.csprojResolveAssemblyReference.cache
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.Migrations.Initial.resources
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.Migrations.CreatedDateDatabaseGenerated.resources
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.Migrations.RemoveCreatedDateDatabaseGenerated.resources
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.Migrations.DatabaseGenerated.resources
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.csproj.GenerateResource.Cache
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.dll
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.pdb
+D:\TutsPlus\ASP.NET At Your Service - Web API\4-Building an API\10-More Routing\10-More Routing\Stats\Stats\obj\Debug\Stats.Migrations.AddEventsToGameEntity.resources
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\Stats.dll.config
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\Stats.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\Stats.pdb
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\EntityFramework.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\EntityFramework.SqlServer.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\Newtonsoft.Json.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\System.Net.Http.Formatting.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\System.Web.Http.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\System.Web.Http.WebHost.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\EntityFramework.xml
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\EntityFramework.SqlServer.xml
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\Newtonsoft.Json.xml
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\System.Net.Http.Formatting.xml
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\System.Web.Http.xml
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\bin\System.Web.Http.WebHost.xml
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.Migrations.Initial.resources
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.Migrations.CreatedDateDatabaseGenerated.resources
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.Migrations.RemoveCreatedDateDatabaseGenerated.resources
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.Migrations.DatabaseGenerated.resources
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.Migrations.AddEventsToGameEntity.resources
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.csproj.GenerateResource.Cache
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.dll
+C:\Users\Faruh\Desktop\Lesson23-Dependency-Injection\Stats\Stats\obj\Debug\Stats.pdb
